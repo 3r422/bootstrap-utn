@@ -1,0 +1,14 @@
+.carousel-inner img {
+    object-fit: cover;
+    height: 150%;
+    width: 100%;
+
+  }
+ 
+  .header-content {
+    position: absolute;
+    top: calc(50% - 50px); /* Ajusta este valor según lo necesites */
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
